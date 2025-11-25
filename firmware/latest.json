@@ -1,0 +1,8 @@
+{
+  "version": "dev-3cf786e",
+  "firmware_url": "https://speakerlab.sowa.systems/firmware/btaudio.bin",
+  "bootloader_url": "https://speakerlab.sowa.systems/firmware/bootloader.bin",
+  "partition_url": "https://speakerlab.sowa.systems/firmware/partition-table.bin",
+  "build_date": "2025-11-25T01:25:05Z",
+  "commit_sha": "3cf786e54eee93f684f5e8791c671d3104524469"
+}
