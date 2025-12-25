@@ -1,0 +1,8 @@
+{
+  "version": "dev-b4c7299",
+  "firmware_url": "https://speakerlab.sowa.systems/firmware/btaudio.bin",
+  "bootloader_url": "https://speakerlab.sowa.systems/firmware/bootloader.bin",
+  "partition_url": "https://speakerlab.sowa.systems/firmware/partition-table.bin",
+  "build_date": "2025-12-25T22:16:46Z",
+  "commit_sha": "b4c729914099ecf45cd59017bf80829ce372f5a7"
+}
