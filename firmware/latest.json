@@ -1,0 +1,8 @@
+{
+  "version": "dev-e48becf",
+  "firmware_url": "https://speakerlab.sowa.systems/firmware/btaudio.bin",
+  "bootloader_url": "https://speakerlab.sowa.systems/firmware/bootloader.bin",
+  "partition_url": "https://speakerlab.sowa.systems/firmware/partition-table.bin",
+  "build_date": "2026-01-04T10:57:37Z",
+  "commit_sha": "e48becf11cd69e21406e7404eaedaf6e01a9b83c"
+}
