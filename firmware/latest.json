@@ -1,0 +1,8 @@
+{
+  "version": "dev-cc7fcae",
+  "firmware_url": "https://speakerlab.sowa.systems/firmware/btaudio.bin",
+  "bootloader_url": "https://speakerlab.sowa.systems/firmware/bootloader.bin",
+  "partition_url": "https://speakerlab.sowa.systems/firmware/partition-table.bin",
+  "build_date": "2026-01-17T18:03:02Z",
+  "commit_sha": "cc7fcae9cd146c0dadac04e2ba640fdd7a1444ff"
+}
