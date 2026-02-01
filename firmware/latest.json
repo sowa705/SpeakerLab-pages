@@ -1,0 +1,8 @@
+{
+  "version": "0c09797",
+  "firmware_url": "https://speakerlab.sowa.systems/firmware/btaudio.bin",
+  "bootloader_url": "https://speakerlab.sowa.systems/firmware/bootloader.bin",
+  "partition_url": "https://speakerlab.sowa.systems/firmware/partition-table.bin",
+  "build_date": "2026-02-01T17:51:01Z",
+  "commit_sha": "0c0979721774e6adc9ceaecb8ff8e79481ee6246"
+}
